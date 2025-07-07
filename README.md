@@ -24,7 +24,8 @@ Este projeto integra uma **API REST em Python (FastAPI)**, comunicação com **s
 ├── api/
 │   ├── ihm_api.py           # API FastAPI
 │   ├── house_dao.py         # Acesso ao SQLite
-│   └── cliente.py           # Cliente MODBUS
+│   ├── cliente.py           # Cliente MODBUS
+│   └── house_database.db    # Cliente MODBUS
 ├── interface/
 │   ├── index.html           # Dashboard Web
 │   ├── script.js            # Lógica e integração JS
