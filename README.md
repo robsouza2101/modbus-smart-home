@@ -13,6 +13,7 @@ Este projeto integra uma **API REST em Python (FastAPI)**, comunicação com **s
   - Lâmpadas ligam se houver movimento e baixa luminosidade
   - Umidificador ativa se umidade < 40%
   - Ventilador ativa se temperatura > 28°C **e** umidade > 70%
+  - Alarme liga quando há a presença detectada.
 - 🖼️ Ícones dos atuadores mudam dinamicamente conforme o estado
 - 📱 Layout responsivo adaptado a dispositivos móveis
 
