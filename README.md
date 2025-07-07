@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d056535b-35d7-424c-9f17-9cf3284315ee)# 🏠 Smart Home Dashboard com FastAPI, MODBUS e Interface Web
+# 🏠 Smart Home Dashboard com FastAPI, MODBUS e Interface Web
 
 Este projeto integra uma **API REST em Python (FastAPI)**, comunicação com **servidor MODBUS**, **banco de dados SQLite**, e uma **interface web responsiva** com HTML, CSS e JavaScript, formando um painel de controle para monitoramento e automação residencial.
 
