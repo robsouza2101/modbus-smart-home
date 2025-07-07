@@ -69,10 +69,7 @@ Este projeto integra uma **API REST em Python (FastAPI)**, comunicação com **s
 
 ## 📸 Interface
 
-(💡 Adicione aqui um print da interface se quiser)
-
 ![image](https://github.com/user-attachments/assets/ed51480c-1aa6-478c-bb5b-73442e3b55bf)
-
 
 ## 📃 Licença
 
