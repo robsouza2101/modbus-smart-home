@@ -1,4 +1,4 @@
-# 🏠 Smart Home Dashboard com FastAPI, MODBUS e Interface Web
+![image](https://github.com/user-attachments/assets/d056535b-35d7-424c-9f17-9cf3284315ee)# 🏠 Smart Home Dashboard com FastAPI, MODBUS e Interface Web
 
 Este projeto integra uma **API REST em Python (FastAPI)**, comunicação com **servidor MODBUS**, **banco de dados SQLite**, e uma **interface web responsiva** com HTML, CSS e JavaScript, formando um painel de controle para monitoramento e automação residencial.
 
@@ -45,7 +45,7 @@ Este projeto integra uma **API REST em Python (FastAPI)**, comunicação com **s
 
 2. **Inicie a API FastAPI**
    ```bash
-   uvicorn api.ihm_api:app --reload
+   python.exe ihm_api.py
    ```
 
 3. **Abra a interface web**
@@ -70,6 +70,9 @@ Este projeto integra uma **API REST em Python (FastAPI)**, comunicação com **s
 ## 📸 Interface
 
 (💡 Adicione aqui um print da interface se quiser)
+
+![image](https://github.com/user-attachments/assets/ed51480c-1aa6-478c-bb5b-73442e3b55bf)
+
 
 ## 📃 Licença
 
